@@ -109,6 +109,14 @@ namespace Original{
 
 
 int main( int argc, char** argv ){
-    
+    int w, h;
+    cin >> w >> h;
+
+    for( int i = 0; i < h; i++ ){
+        for( int j = 0; j < w; j++ ){
+            cout << "*" << flush;
+        }
+        cout << endl;
+    }
 return 0;
 }
