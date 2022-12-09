@@ -5,6 +5,7 @@ This is a sample so that I can commit this to the GitHub.
 ## 1. Question
 
 半角のアスタリスク(*)を使って表現した横W高さHの長方形を出力するプログラムを組め。
+ただし、異常系については考慮しないものとする。
 
 ## 2. Conditions
 
